@@ -1,0 +1,11 @@
+Class N1
+Pronouns 
+I = YO 
+YOU = TÚ 
+HE = ÉL 
+SHE = ELLA 
+IT = ESO - ESA
+WE = NOSOTRO    
+YOU = USTEDES 
+THEY = ELLOS
+
